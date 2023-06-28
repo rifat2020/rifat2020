@@ -10,11 +10,8 @@
 
  body{
 
-  margin: 0;
-
-  background-color: #bfaafe;
-
-   }
+ margin: 10px;
+ }
 
    
 
